@@ -12,3 +12,8 @@
 Support this project and become a patron on <a href="https://www.patreon.com/EricWilliam">Patreon</a>.<br>
 Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
+
+
+## Setup
+
+This is a rand new printer sent from Elegoo for test and play. I like creating a a repo to share all the relevant files, tricks and hacks to get these early-production printers working perfectly as quickly as possible. 
